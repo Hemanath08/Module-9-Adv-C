@@ -132,6 +132,7 @@ void enqueue(int data)
 ```
 
 Output:
+
 ![image](https://github.com/user-attachments/assets/4b318e3f-f8a6-411c-ad15-41496d932744)
 
 
